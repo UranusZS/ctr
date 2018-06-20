@@ -1,0 +1,15 @@
+age	int	0
+workclass	str	
+fnlwgt	int	0
+education	str	
+education_num	int	0
+marital_status	str	
+occupation	str	
+relationship	str	
+race	str	
+gender	str	
+capital_gain	int	0
+capital_loss	int	0
+hours_per_week	int	0
+native_country	str	
+income_bracket	str	
