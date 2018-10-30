@@ -1,0 +1,10 @@
+### Bayes Smoothing  
+This is a test for Bayes Smoothing   
+refs:  
+    - Click-Through Rate Estimation for Rare Events in Online Advertising  
+    - http://www.cnblogs.com/bentuwuying/p/6498370.html  
+
+run:  
+first get the clicks and impressions for the ads from the log  
+then run, cd python; python cal_pctr.py  
+some configuration is omited, add when needed.  
