@@ -1,0 +1,14 @@
+Steps:
+- Downloading the libsvm data set kdda from https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+- Using libsvm2tfrecord.py to convert the libsvm format input to TFRecords  
+- Using fm_model.py to train the FM model and export the model  
+- Also using fm_model.py to predict the results for the test set with TFRecords
+format  
+- Using predict_using_export_model.py to predict for the original libsvm text format 
+  
+
+  
+
+TODO:
+- better define the model  
+- train a better result  
